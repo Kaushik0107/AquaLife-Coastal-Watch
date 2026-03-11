@@ -80,6 +80,62 @@ This screen allows users to submit pollution reports from coastal areas.
 
 
 
+- ## Dashboard Screen
+
+The dashboard provides a summary of the platform's activity.
+
+### Components
+- Total reports submitted
+- Number of pollution reports
+- Wildlife sightings numbers
+- Quick access to Report verification and heatmap tools
+- Analytics of Pollution reports over time
+- Recent report Highlight
+
+This screen provides an overview of environmental data.
+
+---
+
+## Heatmap Screen
+
+The heatmap screen visualizes pollution density across different coastal regions.
+
+### Components
+- Geographic heatmap visualization
+- Color-coded pollution intensity
+- Identification of major pollution hotspots
+- Top pollution area
+- Most common waste
+- number of reports this week
+
+This helps environmental agencies prioritize affected areas.
+
+---
+
+## Report Verification Screen
+
+The report verification screen allows administrators to review citizen submissions.
+
+### Components
+- Table of submitted reports
+- Image preview of uploaded evidence
+- Location and report type
+- Status indicator (Pending / Verified)
+- Action buttons for **Approve** and **Reject**
+
+This ensures accuracy and reliability of reported environmental data.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
