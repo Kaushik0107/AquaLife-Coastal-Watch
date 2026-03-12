@@ -4,7 +4,7 @@
 AquaLife Coastal Watch is a full-stack MERN web application designed to improve marine conservation through community participation. The platform allows citizens to report coastal pollution and wildlife sightings using a digital reporting system.
 
 ## ABSTRACT
-# Problem Statement
+## Problem Statement
 
 Marine pollution in coastal areas is increasing due to plastic waste, oil spills, and illegal dumping. Traditional monitoring systems rely on manual surveys and government inspections.
 
