@@ -104,27 +104,20 @@ The Coastal Watch Map screen allows users to view pollution reports and wildlife
 
 ---
 
+## Upload Image Screen
 
+The upload image screen allows users to attach photographic evidence while submitting pollution or wildlife reports.
 
+## Components
+-Image preview area to display the selected photo
+-Take Photo button to capture an image using the device camera
+-Upload from Gallery option to select an existing image
+-Confirm Upload button to proceed with the report submission process
+-Navigation back button to return to the previous screen
 
+This screen helps ensure that reports include visual evidence, improving the accuracy and credibility of submitted environmental reports.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## Dashboard Screen
 
