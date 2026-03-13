@@ -69,6 +69,8 @@ This screen allows users to submit pollution reports from coastal areas.
 - Dead Marine Life
 - others
 
+ --- 
+
 ## Admin Login Screen
 
 The admin login screen allows authorized administrators to securely access the desktop management system of the platform.
