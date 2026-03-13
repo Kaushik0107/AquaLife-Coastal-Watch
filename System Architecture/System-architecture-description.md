@@ -1,5 +1,5 @@
 #Explanation
-<h2>AquaLife Coastal Watch – MERN Stack System Architecture</h2>
+<h2>AquaLife Coastal Watch  –  MERN Stack System Architecture</h2>
 
 <h3> Frontend (React)</h3>
 <ul>
@@ -44,7 +44,7 @@
   <li>Approved reports → sent back to Frontend for public visibility.</li>
 </ol>
 
-<h3> Summary</h3>
+<h3> Summary of AquaLife Coastal Watch architecture</h3>
 <ul>
   <li><strong>React</strong> = user-facing interface.</li>
   <li><strong>Node + Express</strong> = server logic & APIs.</li>
