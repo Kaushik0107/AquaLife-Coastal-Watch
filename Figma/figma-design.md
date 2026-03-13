@@ -69,9 +69,27 @@ This screen allows users to submit pollution reports from coastal areas.
 - Dead Marine Life
 - others
 
+## Admin Login Screen
+
+The admin login screen allows authorized administrators to securely access the desktop management system of the platform.
+
+### Components
+- Admin email input field
+- Password input field
+- Login button
+- Secure authentication validation
+- Error message display for incorrect credentials
+
+This screen ensures that only authorized personnel can access administrative tools for monitoring, verifying, and managing coastal pollution reports submitted by citizens.
+
+---
 
 
- # in between 3 screens go here #Z 
+
+
+
+
+
 
 
 
