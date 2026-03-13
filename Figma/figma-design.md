@@ -71,6 +71,7 @@ This screen allows users to submit pollution reports from coastal areas.
 
 
 
+ # in between 3 screens go here #Z 
 
 
 
@@ -80,7 +81,14 @@ This screen allows users to submit pollution reports from coastal areas.
 
 
 
-- ## Dashboard Screen
+
+
+
+
+
+
+
+## Dashboard Screen
 
 The dashboard provides a summary of the platform's activity.
 
