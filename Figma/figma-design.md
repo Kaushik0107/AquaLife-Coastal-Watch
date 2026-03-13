@@ -84,6 +84,26 @@ This screen ensures that only authorized personnel can access administrative too
 
 ---
 
+## Coastal Watch Map Screen
+
+The Coastal Watch Map screen allows users to view pollution reports and wildlife sightings across different coastal locations through an interactive map interface.
+
+### Components
+-Search location bar for finding specific coastal areas
+-Interactive coastal map visualization
+-Color-coded markers representing different report types
+-Floating action button for quick reporting
+-Filter options to view All Reports, Pollution, or Wildlife
+
+### Map Indicators
+-Wildlife Sighting marker
+-High Pollution marker
+-Medium Pollution marker
+-Low Pollution marker
+-Oil Spill marker
+
+---
+
 
 
 
