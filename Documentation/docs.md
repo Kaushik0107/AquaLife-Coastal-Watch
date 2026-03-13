@@ -1,4 +1,4 @@
-## AquaLife Coastal Watch – Marine Pollution Reporting System
+# AquaLife Coastal Watch – Marine Pollution Reporting System
 ## SDG Goal 14: Life Below Water
 
 AquaLife Coastal Watch is a full-stack MERN web application designed to improve marine conservation through community participation. The platform allows citizens to report coastal pollution and wildlife sightings using a digital reporting system.
@@ -251,7 +251,7 @@ Alert Branch
 Authorities notified about severe pollution incidents
 
 ## 4.3 Database Design
-# Users Collection
+## Users Collection
 
 id
 
